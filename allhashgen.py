@@ -286,7 +286,7 @@ def main():
         banner()
         #getting input string from user
         try:
-            get_input=raw_input(G+"{+} Enter the string to be hashed (Eg:Hashthestring) {+}: ")
+            get_input=input(G+"{+} Enter the string to be hashed (Eg:Hashthestring) {+}: ")
         except KeyboardInterrupt:
             print(R+"{+} You Pressed CTRL+C {+}")
             sys.exit()

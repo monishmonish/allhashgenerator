@@ -23,5 +23,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## Contact
 Developed by Monish Kumar R
 
-Email: monish937@gmail.com
+
 GitHub:www.github.com/monishmonish/

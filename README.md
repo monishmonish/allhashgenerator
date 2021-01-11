@@ -21,7 +21,7 @@ python allhashgen.py
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## Contact
-Developed by Monish Kumar R
+Developed by Monish Kumar
 
 
 GitHub:www.github.com/monishmonish/
